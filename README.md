@@ -2,4 +2,4 @@
 ## 提交路径
 我会给每个人建一个名为`progress_xxx`的文件夹，请把结果提交到该处
 ## 格式
-请大家把书信标注的结果以 Microsoft Excel 的`.xls`格式保存并上传  
+请大家把书信标注的结果以 Microsoft Excel 的`.xlsx`格式保存并上传  
